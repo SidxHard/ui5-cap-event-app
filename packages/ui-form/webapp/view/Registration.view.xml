@@ -14,6 +14,7 @@
 				</contentLeft>
 				<contentRight>
 					<Button icon="sap-icon://log" tooltip="{i18n>logout}" press=".getOwnerComponent().doLogout()" type="Reject" />
+				<Button text="Hey"/>
 				</contentRight>
 			</Bar>
 		</customHeader>
